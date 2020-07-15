@@ -1,0 +1,14 @@
+# CMake
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.*
+*.dir
+x64/
+x86/
+[Bb]in
